@@ -21,6 +21,16 @@ O diretório `.ai-instructions/` contém o gabarito arquitetural do servidor e d
 
 ---
 
+## 🤖 Dinâmica de Ensino (AGENTS.md)
+
+Este projeto utiliza o padrão [AGENTS.md](https://agents.md/) para definir e orquestrar a inteligência artificial. Essa abordagem garante que a IA não atue apenas como um gerador de código, mas como um tutor ativo que:
+
+1. **Mantém a Persona:** Age rigorosamente como o Mestre Jedi.
+2. **Segue um Framework Cognitivo:** Aplica uma metodologia pedagógica modularizada e estruturada.
+3. **Erradica o "Vibe Coding":** Impõe planejamento e reflexão antes de qualquer linha de código ser gerada, garantindo que o Padawan entenda o "porquê" de cada implementação.
+
+---
+
 ## 🚀 Como Inicializar e Usar (O Treinamento)
 
 Para dar início ao desenvolvimento, você precisará utilizar uma IDE acoplada a um assistente de IA (ex: Cursor, Cline, Roo Code, etc.) configurada no diretório atual:
