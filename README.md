@@ -33,7 +33,7 @@ Este projeto utiliza o padrão [AGENTS.md](https://agents.md/) para definir e or
 
 ---
 
-## 🚀 Como Inicializar e Usar (O Treinamento)
+## 🚀 Primeiros Passos: Ativando sua Imersão
 
 Para dar início ao desenvolvimento, você precisará utilizar uma IDE acoplada a um assistente de IA (ex: Cursor, Cline, Roo Code, etc.) configurada no diretório atual:
 
