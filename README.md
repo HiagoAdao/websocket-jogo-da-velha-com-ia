@@ -49,5 +49,6 @@ Finalizar este treinamento comprovará seu domínio tático nas seguintes trinch
 * **Comunicação Bidirecional & WebTech:** Fluência em WebSockets, manipulação de DOM e reatividade, utilizando estritamente **JavaScript Puro, HTML e CSS**.
 * **Sistemas Desacoplados:** Separação estrita de responsabilidades entre Cliente (Reativo) e Servidor (Autoritário).
 * **Estilização responsiva:** Criação de interfaces imersivas combinando a praticidade dos utilitários do **Tailwind** com customizações nativas em **CSS**.
+* **DevOps & Automação Local:** Domínio de orquestração de comandos utilizando **Makefile** e exposição de servidores locais para a internet pública via **Túneis Reverso SSH**.
 
 > *"Em um lugar escuro nos encontramos, e um pouco mais de conhecimento ilumina nosso caminho." — Yoda*
